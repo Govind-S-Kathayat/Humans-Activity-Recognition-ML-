@@ -43,7 +43,7 @@ python recognise_human_activity.py
 ##### Push Ups -
 ![-](https://github.com/techycs18/human-activity-recognition/blob/master/screenshots/pushups.png)
 #### Author 
-- [Chaitanya Sonavane](https://www.linkedin.com/in/chaitanya-sonavane-3766521a0/) [July 2020] 
+- [Govind Singh Kathayat](https://www.linkedin.com/in/govind-singh-kathayat-328a5a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [July 2025] 
 
 #### Acknowledments :
 - Kay et al.’s 2017 paper, [The Kinetics Human Action Video Dataset.](https://arxiv.org/abs/1705.06950)
